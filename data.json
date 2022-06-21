@@ -2,7 +2,7 @@
     {
         "host": "172.31.0.11",
         "user": "cloud",
-        "last-update": 1655840122.3901794,
+        "last-update": 1655840161.402705,
         "active": false,
         "sensors": {
             "i350bb-pci-1703": {
@@ -22,7 +22,7 @@
                     "temp1_crit_alarm": 0.0
                 },
                 "Core 0": {
-                    "temp2_input": 29.0,
+                    "temp2_input": 30.0,
                     "temp2_max": 81.0,
                     "temp2_crit": 91.0,
                     "temp2_crit_alarm": 0.0
@@ -34,19 +34,19 @@
                     "temp3_crit_alarm": 0.0
                 },
                 "Core 2": {
-                    "temp4_input": 28.0,
+                    "temp4_input": 29.0,
                     "temp4_max": 81.0,
                     "temp4_crit": 91.0,
                     "temp4_crit_alarm": 0.0
                 },
                 "Core 3": {
-                    "temp5_input": 27.0,
+                    "temp5_input": 28.0,
                     "temp5_max": 81.0,
                     "temp5_crit": 91.0,
                     "temp5_crit_alarm": 0.0
                 },
                 "Core 4": {
-                    "temp6_input": 29.0,
+                    "temp6_input": 28.0,
                     "temp6_max": 81.0,
                     "temp6_crit": 91.0,
                     "temp6_crit_alarm": 0.0
@@ -94,7 +94,7 @@
                     "temp13_crit_alarm": 0.0
                 },
                 "Core 12": {
-                    "temp14_input": 29.0,
+                    "temp14_input": 28.0,
                     "temp14_max": 81.0,
                     "temp14_crit": 91.0,
                     "temp14_crit_alarm": 0.0
@@ -123,7 +123,7 @@
     {
         "host": "172.31.0.12",
         "user": "cloud",
-        "last-update": 1655840124.0337298,
+        "last-update": 1655840162.9711537,
         "active": false,
         "sensors": {
             "i350bb-pci-1703": {
@@ -155,7 +155,7 @@
                     "temp3_crit_alarm": 0.0
                 },
                 "Core 2": {
-                    "temp4_input": 27.0,
+                    "temp4_input": 26.0,
                     "temp4_max": 81.0,
                     "temp4_crit": 91.0,
                     "temp4_crit_alarm": 0.0
@@ -179,7 +179,7 @@
                     "temp7_crit_alarm": 0.0
                 },
                 "Core 6": {
-                    "temp8_input": 28.0,
+                    "temp8_input": 27.0,
                     "temp8_max": 81.0,
                     "temp8_crit": 91.0,
                     "temp8_crit_alarm": 0.0
@@ -191,7 +191,7 @@
                     "temp9_crit_alarm": 0.0
                 },
                 "Core 8": {
-                    "temp10_input": 25.0,
+                    "temp10_input": 26.0,
                     "temp10_max": 81.0,
                     "temp10_crit": 91.0,
                     "temp10_crit_alarm": 0.0
@@ -203,7 +203,7 @@
                     "temp11_crit_alarm": 0.0
                 },
                 "Core 10": {
-                    "temp12_input": 28.0,
+                    "temp12_input": 27.0,
                     "temp12_max": 81.0,
                     "temp12_crit": 91.0,
                     "temp12_crit_alarm": 0.0
@@ -221,7 +221,7 @@
                     "temp14_crit_alarm": 0.0
                 },
                 "Core 13": {
-                    "temp15_input": 26.0,
+                    "temp15_input": 27.0,
                     "temp15_max": 81.0,
                     "temp15_crit": 91.0,
                     "temp15_crit_alarm": 0.0
@@ -244,7 +244,7 @@
     {
         "host": "172.31.0.13",
         "user": "cloud",
-        "last-update": 1655840125.6725001,
+        "last-update": 1655840164.5826073,
         "active": false,
         "sensors": {
             "i350bb-pci-1703": {
@@ -258,13 +258,13 @@
             "coretemp-isa-0000": {
                 "Adapter": "ISA adapter",
                 "Package id 0": {
-                    "temp1_input": 30.0,
+                    "temp1_input": 31.0,
                     "temp1_max": 81.0,
                     "temp1_crit": 91.0,
                     "temp1_crit_alarm": 0.0
                 },
                 "Core 0": {
-                    "temp2_input": 30.0,
+                    "temp2_input": 31.0,
                     "temp2_max": 81.0,
                     "temp2_crit": 91.0,
                     "temp2_crit_alarm": 0.0
@@ -306,7 +306,7 @@
                     "temp8_crit_alarm": 0.0
                 },
                 "Core 7": {
-                    "temp9_input": 29.0,
+                    "temp9_input": 28.0,
                     "temp9_max": 81.0,
                     "temp9_crit": 91.0,
                     "temp9_crit_alarm": 0.0
@@ -348,7 +348,7 @@
                     "temp15_crit_alarm": 0.0
                 },
                 "Core 14": {
-                    "temp16_input": 30.0,
+                    "temp16_input": 29.0,
                     "temp16_max": 81.0,
                     "temp16_crit": 91.0,
                     "temp16_crit_alarm": 0.0
@@ -365,13 +365,13 @@
     {
         "host": "172.31.0.14",
         "user": "cloud",
-        "last-update": 1655840127.410443,
+        "last-update": 1655840166.3265407,
         "active": true,
         "sensors": {
             "coretemp-isa-0000": {
                 "Adapter": "ISA adapter",
                 "Core 0": {
-                    "temp2_input": 24.0,
+                    "temp2_input": 26.0,
                     "temp2_max": 83.0,
                     "temp2_crit": 99.0,
                     "temp2_crit_alarm": 0.0
@@ -389,7 +389,7 @@
                     "temp4_crit_alarm": 0.0
                 },
                 "Core 3": {
-                    "temp5_input": 24.0,
+                    "temp5_input": 26.0,
                     "temp5_max": 83.0,
                     "temp5_crit": 99.0,
                     "temp5_crit_alarm": 0.0
@@ -400,25 +400,25 @@
     {
         "host": "172.31.0.15",
         "user": "cloud",
-        "last-update": 1655840115.3204238,
+        "last-update": 1655840154.7722137,
         "active": false,
         "sensors": {
             "coretemp-isa-0000": {
                 "Adapter": "ISA adapter",
                 "Core 0": {
-                    "temp2_input": 28.0,
+                    "temp2_input": 30.0,
                     "temp2_max": 83.0,
                     "temp2_crit": 99.0,
                     "temp2_crit_alarm": 0.0
                 },
                 "Core 1": {
-                    "temp3_input": 24.0,
+                    "temp3_input": 25.0,
                     "temp3_max": 83.0,
                     "temp3_crit": 99.0,
                     "temp3_crit_alarm": 0.0
                 },
                 "Core 2": {
-                    "temp4_input": 31.0,
+                    "temp4_input": 29.0,
                     "temp4_max": 83.0,
                     "temp4_crit": 99.0,
                     "temp4_crit_alarm": 0.0
@@ -435,37 +435,37 @@
     {
         "host": "172.31.0.18",
         "user": "cloud",
-        "last-update": 1655840117.0634398,
+        "last-update": 1655840156.2800193,
         "active": false,
         "sensors": {
             "coretemp-isa-0000": {
                 "Adapter": "ISA adapter",
                 "Package id 0": {
-                    "temp1_input": 47.0,
+                    "temp1_input": 48.0,
                     "temp1_max": 87.0,
                     "temp1_crit": 97.0,
                     "temp1_crit_alarm": 0.0
                 },
                 "Core 0": {
-                    "temp2_input": 47.0,
+                    "temp2_input": 46.0,
                     "temp2_max": 87.0,
                     "temp2_crit": 97.0,
                     "temp2_crit_alarm": 0.0
                 },
                 "Core 1": {
-                    "temp3_input": 45.0,
+                    "temp3_input": 46.0,
                     "temp3_max": 87.0,
                     "temp3_crit": 97.0,
                     "temp3_crit_alarm": 0.0
                 },
                 "Core 2": {
-                    "temp4_input": 47.0,
+                    "temp4_input": 48.0,
                     "temp4_max": 87.0,
                     "temp4_crit": 97.0,
                     "temp4_crit_alarm": 0.0
                 },
                 "Core 3": {
-                    "temp5_input": 43.0,
+                    "temp5_input": 44.0,
                     "temp5_max": 87.0,
                     "temp5_crit": 97.0,
                     "temp5_crit_alarm": 0.0
@@ -477,7 +477,7 @@
                     "temp6_crit_alarm": 0.0
                 },
                 "Core 5": {
-                    "temp7_input": 46.0,
+                    "temp7_input": 47.0,
                     "temp7_max": 87.0,
                     "temp7_crit": 97.0,
                     "temp7_crit_alarm": 0.0
@@ -488,7 +488,7 @@
     {
         "host": "172.31.0.19",
         "user": "cloud",
-        "last-update": 1655840119.0127485,
+        "last-update": 1655840158.1241043,
         "active": false,
         "sensors": {
             "acpitz-acpi-0": {
@@ -507,13 +507,13 @@
                     "temp1_crit_alarm": 0.0
                 },
                 "Core 0": {
-                    "temp2_input": 24.0,
+                    "temp2_input": 23.0,
                     "temp2_max": 85.0,
                     "temp2_crit": 105.0,
                     "temp2_crit_alarm": 0.0
                 },
                 "Core 1": {
-                    "temp3_input": 31.0,
+                    "temp3_input": 32.0,
                     "temp3_max": 85.0,
                     "temp3_crit": 105.0,
                     "temp3_crit_alarm": 0.0
@@ -524,7 +524,7 @@
     {
         "host": "172.31.0.20",
         "user": "cloud",
-        "last-update": 1655840120.6531036,
+        "last-update": 1655840159.7588787,
         "active": false,
         "sensors": {
             "acpitz-acpi-0": {
@@ -537,13 +537,13 @@
             "coretemp-isa-0000": {
                 "Adapter": "ISA adapter",
                 "Package id 0": {
-                    "temp1_input": 33.0,
+                    "temp1_input": 31.0,
                     "temp1_max": 85.0,
                     "temp1_crit": 105.0,
                     "temp1_crit_alarm": 0.0
                 },
                 "Core 0": {
-                    "temp2_input": 31.0,
+                    "temp2_input": 30.0,
                     "temp2_max": 85.0,
                     "temp2_crit": 105.0,
                     "temp2_crit_alarm": 0.0
