@@ -6,7 +6,7 @@ function App() {
   const [data, setData] = useState([]);
 
   useInterval(() => {
-    fetch('http://localhost:8000/data.json')
+    fetch(process.env.REACT_APP_API_URL)
       .then(response => response.json())
       .then(response => setData(response))
   }, 1000)
