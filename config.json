@@ -1,0 +1,36 @@
+{
+    "inventory": [
+        {
+            "host": "172.31.0.11",
+            "user": "cloud"
+        },
+        {
+            "host": "172.31.0.12",
+            "user": "cloud"
+        },
+        {
+            "host": "172.31.0.13",
+            "user": "cloud"
+        },
+        {
+            "host": "172.31.0.14",
+            "user": "cloud"
+        },
+        {
+            "host": "172.31.0.15",
+            "user": "cloud"
+        },
+        {
+            "host": "172.31.0.18",
+            "user": "cloud"
+        },
+        {
+            "host": "172.31.0.19",
+            "user": "cloud"
+        },
+        {
+            "host": "172.31.0.20",
+            "user": "cloud"
+        }
+    ]
+}
